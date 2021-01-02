@@ -1,0 +1,9 @@
+.my_slider_img{
+    width: 100%;
+    height: 100vh!important;
+}
+.carousel .carousel-indicators li {
+    width: 30px;
+    height: 5px;
+    border-radius:0;
+}
