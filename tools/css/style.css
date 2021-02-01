@@ -7,3 +7,18 @@
     height: 5px;
     border-radius:0;
 }
+.myText{
+    text-shadow: 3px 3px 5px black;
+    color: rgb(222, 245, 18);
+}
+.myText2{
+    text-shadow: 1px 1px 5px rgb(255, 255, 255);
+    color: rgb(136, 14, 14);
+}
+.img-height{
+    min-height: 245px!important;
+    max-height: 245px!important;
+}
+.img-slider{
+    max-height: 259.5px!important; 
+}
